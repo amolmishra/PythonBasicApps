@@ -1,0 +1,3 @@
+can crete the dist depending on the operating system:
+
+pyinstaller --onefile --windowed frontend.py
